@@ -56,7 +56,10 @@ I'm a **2nd-Year student** at **Belgium Campus**, passionate about learning how 
 
 ### **Backend & Infrastructure**
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+ <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C#/.NET"/>
+ <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+ <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
 </p>
 
 ### **Databases**
@@ -72,9 +75,17 @@ I'm a **2nd-Year student** at **Belgium Campus**, passionate about learning how 
 
 </details>
 
-### **🎯 Current Focus Areas**
-
 ---
+
+## 🚧 Projects
+
+Here are a few things I’m working on or have built:
+<!--
+- [Project Name](https://github.com/cheeky18butterfly/project-name) — Short description of what it does
+- [Another Project](https://github.com/cheekey18butterfly/another-project) — Brief summary here
+-->
+---
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart" width="25" height="25" /> **GitHub Analytics**
 
